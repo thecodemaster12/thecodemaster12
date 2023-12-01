@@ -32,36 +32,45 @@ My journey into the web development realm started with React, where I've success
 <span>
 <img src="./icons/php.png" alt="" width="60" height="60">
 </span>
-<span></span>
-<span></span>
 
-<br/>
 <br/>
 
 ### Database
 
+<span>
 <img src="./icons/mysql.png" alt="" width="60" height="60">
+</span>
+<span>
 <img src="./icons/mongodb.png" alt="" width="60" height="60">
+</span>
 
-<br/>
 <br/>
 
 
 ### Programming Languages
 
+<span>
 <img src="./icons/letter-c.png" alt="" width="60" height="60">
+</span>
+<span>
 <img src="./icons/c++.png" alt="" width="60" height="60">
+</span>
+<span>
 <img src="./icons/c-sharp.png" alt="" width="60" height="60">
+</span>
+<span>
 <img src="./icons/js.png" alt="" width="60" height="60">
+</span>
+<span>
 <img src="./icons/python.png" alt="" width="60" height="60">
+</span>
 
-<br/>
 <br/>
 
 <h1 style="text-align: center" >Projects</h1>
 
-- Project 1 : [Mortgage Calculator](https://mortgage-cal.netlify.app/)
-- Project 2 : [Rick and Morty Wiki](https://rick-and-morty-wikis.netlify.app/)
+- Project 1 : <a href="https://mortgage-cal.netlify.app/" target="_blank">Mortgage Calculator</a>
+- Project 2 : <a href="https://rick-and-morty-wikis.netlify.app/" target="_blank">Rick and Morty Wiki</a>
 
 <br/>
 <br/>
