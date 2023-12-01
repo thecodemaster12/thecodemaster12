@@ -8,14 +8,32 @@ My journey into the web development realm started with React, where I've success
 
 ### Web Development
 
+</span> 
 <img src="./icons/html-5.png" alt="" width="60" height="60">
+<span>
+<span>
 <img src="./icons/css-3.png" alt="" width="60" height="60">
+</span>
+<span>
 <img src="./icons/bootstrap.png" alt="" width="60" height="60">
+</span>
+<span>
 <img src="./icons/tailwind-css-icon.png" alt="" width="60" height="60">
+</span>
+<span>
 <img src="./icons/sass.png" alt="" width="60" height="60">
+</span>
+<span>
 <img src="./icons/react.png" alt="" width="60" height="60">
+</span>
+<span>
 <img src="./icons/nodejs.png" alt="" width="60" height="60">
+</span>
+<span>
 <img src="./icons/php.png" alt="" width="60" height="60">
+</span>
+<span></span>
+<span></span>
 
 <br/>
 <br/>
