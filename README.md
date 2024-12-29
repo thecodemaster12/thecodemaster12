@@ -1,94 +1,61 @@
 <h1 style="text-align: center" >Hi 👋, I'm Saifur Rahman Shihab</h1>
 
-I'm passion for web development. Although I'm currently diving into the vast world of technology with no formal work experience, I've been honing my skills through self-learning and hands-on projects.
-
-My journey into the web development realm started with React, where I've successfully completed a variety of projects. From crafting intuitive user interfaces to solving complex challenges, I thrive on the creativity and problem-solving aspects of coding.
-
-<h1 style="text-align: center" >My Skills</h1>
-
-### Web Development
-
-<span> 
-<img src="./icons/html-5.png" alt="" width="60" height="60">
-</span>
-<span>
-<img src="./icons/css-3.png" alt="" width="60" height="60">
-</span>
-<span>
-<img src="./icons/bootstrap.png" alt="" width="60" height="60">
-</span>
-<span>
-<img src="./icons/tailwind-css-icon.png" alt="" width="60" height="60">
-</span>
-<span>
-<img src="./icons/sass.png" alt="" width="60" height="60">
-</span>
-<span>
-<img src="./icons/react.png" alt="" width="60" height="60">
-</span>
-<span>
-<img src="./icons/nodejs.png" alt="" width="60" height="60">
-</span>
-<span>
-<img src="./icons/php.png" alt="" width="60" height="60">
-</span>
+A Junior Web Developer who loves turning ideas into awesome, responsive websites. Whether it’s crafting clean code with PHP and Laravel or nailing that pixel-perfect PSD to HTML conversion, I’m all about making the web look and work better. When I’m not coding, you’ll probably find me geeking out over new frameworks or enjoying a good cup of coffee while solving tricky design challenges!
 
 <br/>
 
-### Database
-
-<span>
-<img src="./icons/mysql.png" alt="" width="60" height="60">
-</span>
-<span>
-<img src="./icons/mongodb.png" alt="" width="60" height="60">
-</span>
+## 🧑‍💻 About Me
+- 🎨 Frontend Developer with a love for clean and responsive design.
+- 🌐 Proficient in HTML, CSS, JavaScript, and PHP.
+- 🚀 Currently exploring Laravel and backend development.
+- 🛠️ Freelancer with experience in PSD to HTML conversions and full-stack projects.
 
 <br/>
 
+## 🔧 Technologies & Tools
 
-### Programming Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="90" alt="html logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="90" alt="css3 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="90" alt="javascript  logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="90" alt="php logo"/>
 
-<span>
-<img src="./icons/letter-c.png" alt="" width="60" height="60">
-</span>
-<span>
-<img src="./icons/c++.png" alt="" width="60" height="60">
-</span>
-<span>
-<img src="./icons/c-sharp.png" alt="" width="60" height="60">
-</span>
-<span>
-<img src="./icons/js.png" alt="" width="60" height="60">
-</span>
-<span>
-<img src="./icons/python.png" alt="" width="60" height="60">
-</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" height="90" alt="laravel logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="90" alt="bootstrap logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="90" alt="tailwind logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="90" alt="react logo"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="90" alt="git logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="90" alt="postman logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="90" alt="dbeaver logo"/>
 
 <br/>
 
-<h1 style="text-align: center" >Projects</h1>
-
-- Project 1 : <a href="https://mortgage-cal.netlify.app/" target="_blank">Mortgage Calculator</a>
-- Project 2 : <a href="https://rick-and-morty-wikis.netlify.app/" target="_blank">Rick and Morty Wiki</a>
-
-<br/>
-<br/>
-
-
-<h1 style="text-align: center" >Contact me</h1>
-
+## 🌐 Socials:
 Let's have a chat
 
-<a href="https://www.facebook.com/saifurrahman.shihab.5/">
-<img src="./social/facebook.png" alt="" width="60" height="60">
-</a>
-<a href="https://www.linkedin.com/in/saifur-rahman-shihab/">
-<img src="./social/linkedin.png" alt="" width="60" height="60">
-</a>
-<a href="mailto:rahmansaifur223@gmail.com">
-<img src="./social/gmail.png" alt="" width="60" height="60">
-</a>
-<a href="">
-<img src="./social/professional-portfolio.png" alt="" width="60" height="60">
-</a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/saifurrahman.shihab.5/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifur-rahman-shihab/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20112880/saifur) 
+[![Gmail](https://img.shields.io/badge/-Gmail-FFF?logo=gmail&logoColor=red)](mailto:rahmansaifur223@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=thecodemaster12&color=000000)
+
+
+<br/>
+
+<!-- Github Status -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thecodemaster12&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thecodemaster12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodemaster12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Random Quote -->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<!-- Profile Views -->
+---
+[![](https://visitcount.itsvg.in/api?id=Saifur12&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+  
